@@ -11,27 +11,30 @@
     <li><strong>Time Series Plot</strong>: Users can generate a time series plot to visualize their income and expenditure over time.</li>
 </ul>
 
-<h2>Usage</h2>
-<h3>Step 1: Navigate to the Project Directory and Activate the Virtual Environment</h3>
+## Usage
+### Step 1: Navigate to the Project Directory and Activate the Virtual Environment
 <pre><code>cd your_project_directory
 venv\Scripts\activate</code></pre>
 
-<h3>Step 2: Install Dependencies</h3>
+### Step 2: Install Dependencies
 <pre><code>python install_requirements.py</code></pre>
 ![Output1](https://github.com/23MD/Personal-Finance-Tracker/blob/6971a1811079c226f735321fa6e2082a2a6a3239/images/output1.PNG)
 
-<h3>Step 3: Run the Application</h3>
+### Step 3: Run the Application
 <pre><code>python main.py</code></pre>
 
-<h3>Step 4: Enter Transaction Details</h3>
+### Step 4: Enter Transaction Details
 <p>To enter details of new transactions, select option '1'.</p>
+
 ![Output2](https://github.com/23MD/Personal-Finance-Tracker/blob/6971a1811079c226f735321fa6e2082a2a6a3239/images/output2.PNG)
 
-<h3>Step 5: View Transactions and Summary</h3>
+### Step 5: View Transactions and Summary
 <p>To view past transactions and summary, select option '2'. Then enter the start date and end date in the correct format.</p>
+
 ![Output3](https://github.com/23MD/Personal-Finance-Tracker/blob/6971a1811079c226f735321fa6e2082a2a6a3239/images/output3.PNG)
 
 <p>If you want to generate a time series plot of income and expenditure over time, enter 'y'.</p>
+
 ![Timeseries Plot](https://github.com/23MD/Personal-Finance-Tracker/blob/6971a1811079c226f735321fa6e2082a2a6a3239/images/Timeserieschart.png)
 
 <h2>Technology Stack</h2>
